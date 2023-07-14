@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Easy_Student_m enagement_systems", "Easy_Student_m enagement_systems.exe", "{10049903-5D86-43E8-A334-059F5B66ACE7}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = D:\Easy_Student_m enagement_systems\Easy_Student_m enagement_systems\obj\Debug\Easy_Student_m enagement_systems.exe
+		RemoteMachine = MD-JOHIR-RAIHAN
+		StartingDirectory = D:\Easy_Student_m enagement_systems\Easy_Student_m enagement_systems\obj\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10049903-5D86-43E8-A334-059F5B66ACE7}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5920FF20-1DF5-4933-9167-FB911438BD80}
+	EndGlobalSection
+EndGlobal
